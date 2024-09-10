@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap",
+  "version": "1.0.0",
+  "description": "Learning Bootstrap with Sass",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "sass --watch scss:assets/css"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "author": "EthanBird",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.78.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "bootstrap": "^5.3.3"
+  }
+}
